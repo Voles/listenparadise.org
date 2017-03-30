@@ -3,9 +3,7 @@ var player;
 var playing;
 
 var urls = [
-  { url: 'http://stream-tx4.radioparadise.com/mp3-192', type: 'mp3' },
-  { url: 'http://stream-tx4.radioparadise.com/ogg-192', type: 'ogg' },
-  { url: 'http://stream-dc1.radioparadise.com/aac-128', type: 'aac' }
+  { url: 'http://mp3.streampower.be/stubru-high.mp3', type: 'mp3' }
 ];
 
 module.exports = {
